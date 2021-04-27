@@ -1,4 +1,4 @@
-module github.com/astha-jain/test-public
+module github.com/deepaksibm/test-go
 
 go 1.14
 
