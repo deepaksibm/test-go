@@ -10,6 +10,8 @@ import (
 var URL = "https://us-south.iaas.cloud.ibm.com/v1"
 var name string
 var city string
+var car string
+
 const IAMURL = "https://iam.cloud.ibm.com/identity/token"
 
 var APIKey = "YOUR_KEY_here"
